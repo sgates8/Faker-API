@@ -1,4 +1,5 @@
 {
+
   "name": "faking",
   "version": "1.0.0",
   "description": "week 5 work",
@@ -7,6 +8,16 @@
     "browserify": "^16.5.2",
     "faker": "^4.1.0"
   },
+=======
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "week 5 work",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+
   "devDependencies": {
     "mocha": "^8.0.1"
   },
@@ -17,8 +28,12 @@
     "type": "git",
     "url": "git+https://github.com/sgates8/week5.git"
   },
+
   "keywords": [],
   "author": "sylvia gates",
+=======
+  "author": "Sylvia Gates",
+
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sgates8/week5/issues"
